@@ -3,6 +3,7 @@
 // Where the function is written determines what variables it can access.
 
 
+
 let x = 10;
 
 function outer() {

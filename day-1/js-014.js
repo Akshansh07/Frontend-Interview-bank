@@ -8,7 +8,7 @@ function debounce(callback, delay){
     return function(...args){
         clearTimeout(timeId);
 
-        timerId = setTimeout (() => {
+        timeId = setTimeout (() => {
             callback(...args);
         },delay);
     };
