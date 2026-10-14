@@ -1,0 +1,1 @@
+// How does inheritance work with prototypes?
