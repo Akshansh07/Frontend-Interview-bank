@@ -6,3 +6,22 @@ Execution is resume when that function finised
 It follows LIFO(last in first out) - the last function added is the first one removed.
 
 */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
